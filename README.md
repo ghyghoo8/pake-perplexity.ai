@@ -9,8 +9,12 @@
 #### mac打包命令
 
 ```
-pake https://www.perplexity.ai  --name PerplexityAi --icon ./logo.icns --show-menu 
+// M1&Intel芯片打包
+pake https://www.perplexity.ai  --name PerplexityAi --icon ./logo.icns --show-menu --multi-arch
+
+//单芯片(本机环境)打包
+pake https://www.perplexity.ai  --name PerplexityAi --icon ./logo.icns --show-menu
 
 ```
 
-* [Apple芯片客户端👈](https://github.com/ghyghoo8/pake-perplexity.ai/raw/main/PerplexityAi.dmg)
+* [Mac客户端(M1&Intel)](https://github.com/ghyghoo8/pake-perplexity.ai/raw/main/PerplexityAi.dmg)
