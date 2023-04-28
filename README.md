@@ -13,4 +13,4 @@ pake https://www.perplexity.ai  --name PerplexityAi --icon ./logo.icns --show-me
 
 ```
 
-* [Apple芯片客户端👉](https://github.com/ghyghoo8/pake-perplexity.ai/raw/main/PerplexityAi.dmg)
+* [Apple芯片客户端👈](https://github.com/ghyghoo8/pake-perplexity.ai/raw/main/PerplexityAi.dmg)
