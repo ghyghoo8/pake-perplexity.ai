@@ -17,4 +17,4 @@ pake https://www.perplexity.ai  --name PerplexityAi --icon ./logo.icns --show-me
 
 ```
 
-* [Mac客户端(M1&Intel)](https://github.com/ghyghoo8/pake-perplexity.ai/raw/main/PerplexityAi.dmg)
+* 下载👉[Mac客户端(M1&Intel)](https://github.com/ghyghoo8/pake-perplexity.ai/raw/main/PerplexityAi.dmg)
